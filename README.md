@@ -6,4 +6,4 @@ npm install
 npm run dev
 ```
 
-![image](https://github.com/rosenfence/react-dnd/assets/90300215/87eb5f83-9059-4861-8ce5-8ea1c89257f7)
+https://github.com/rosenfence/react-dnd/assets/90300215/8404e766-7074-40c3-9614-751b2a872eee
